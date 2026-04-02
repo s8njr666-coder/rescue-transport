@@ -1,0 +1,6 @@
+title: RescueStatic Transport Portal
+description: Fast, static transport updates for animal rescue.
+remote_theme: pages-themes/minima@v2.5.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
